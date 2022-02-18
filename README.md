@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ACHoudijk
 - 👀 I’m interested in connecting with talented tech developers and engineers (front-end, backend, data)
-- 🌱 I’m currently learning Python, SQL, React, Azure
+- 🌱 I’m currently learning Python, SQL, React, Azure, Javascript
 - 💞️ I’m looking to collaborate in finding the right INSERT_NAME: person for the job
 - 📫 Feel free to connect with me via https://www.linkedin.com/in/guus-houdijk/ or send me an email on ghoudijk@resourcers.nl
 
